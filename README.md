@@ -1,8 +1,3 @@
 # control_empleados
 
-A new Flutter application.
-
-## Getting Started
-
-For help getting started with Flutter, view our online
-[documentation](https://flutter.io/).
+[![Watch the video](https://github.com/nellymaydana6/Control-Personal-Biometrico-Flutter/blob/master/images/video.mp4)](http://youtu.be/vt5fpE0bzSY)
