@@ -1,3 +1,7 @@
 # control_empleados
 
-<iframe width="854" height="480" src="https://www.youtube.com/embed/yrRPLBYiiEc" frameborder="0" allowfullscreen></iframe>
+<div align="center">
+    <center>
+        <img src="https://github.com/nellymaydana6/Control-Personal-Biometrico-Flutter/blob/master/images/app.gif" width="300">
+    </center>
+</div>
